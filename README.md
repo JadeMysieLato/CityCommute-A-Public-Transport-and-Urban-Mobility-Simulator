@@ -1,1 +1,1 @@
-# CityCommute-A-Public-Transport-and-Urban-Mobility-Simulator
+# CityCommute: A Public Transport and Urban Mobility Simulator
